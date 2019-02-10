@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Prilojenie"
+             x:Class="Prilojenie.MainPage">
+    Title="TBMenu"
+    <ContentPage.Content>
+        <StackLayout x:Name="StackLayout1"  Padding="12,250,12,12" HorizontalOptions="FillAndExpand">
+            <Button x:Name="Button1" Text="Показать Pop Up"  Clicked="Button1_Click" HorizontalOptions="Center"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
