@@ -1,0 +1,106 @@
+%PDF-1.5
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 5 0 R
+/Outlines 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/Title (TUTORIAL)
+/Author (ME)
+/Creator (sharpPDF_2.0)
+/CreationDate (2018226)
+>>
+endobj
+3 0 obj
+<<
+/Type /Outlines
+/Count 0
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [6 0 R 8 0 R ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <</F1 4 0 R >>
+>>
+/MediaBox [0 0 612 792]
+/CropBox [0 0 612 792]
+/Rotate 0
+/ProcSet [/PDF /Text /ImageC]
+/Contents [7 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Filter [/ASCIIHexDecode]
+/Length 199
+>>
+stream
+710D0A42540D0A2F46312031342054660D0A30203020302072670D0A3230203730302054640D0A287361646864736864736861203B20202074727565203B202020322F32382F323031382031323A30303A303020414D202E2920546A0D0A45540D0A51>
+endstream
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <</F1 4 0 R >>
+>>
+/MediaBox [0 0 612 792]
+/CropBox [0 0 612 792]
+/Rotate 0
+/ProcSet [/PDF /Text /ImageC]
+/Contents [9 0 R ]
+>>
+endobj
+9 0 obj
+<<
+/Filter [/ASCIIHexDecode]
+/Length 201
+>>
+stream
+710D0A42540D0A2F46312031342054660D0A30203020302072670D0A3230203730302054640D0A286173646864736167647367203B20202066616C7365203B202020322F32382F323031382031323A30303A303020414D202E2920546A0D0A45540D0A51>
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f
+0000000010 00000 n
+0000000097 00000 n
+0000000205 00000 n
+0000000257 00000 n
+0000000371 00000 n
+0000000442 00000 n
+0000000647 00000 n
+0000000932 00000 n
+0000001137 00000 n
+trailer
+<<
+/Size 10
+/Root 1 0 R
+/Info 2 0 R
+>>
+startxref
+1424
+%%EOF
