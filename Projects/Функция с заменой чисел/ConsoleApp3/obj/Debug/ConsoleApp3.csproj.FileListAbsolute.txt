@@ -1,0 +1,13 @@
+c:\users\александр\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\александр\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\александр\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\александр\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\александр\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+H:\Projects\Функция с заменой чисел\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+H:\Projects\Функция с заменой чисел\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+H:\Projects\Функция с заменой чисел\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+H:\Projects\Функция с заменой чисел\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+H:\Projects\Функция с заменой чисел\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+H:\Projects\Функция с заменой чисел\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+H:\Projects\Функция с заменой чисел\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

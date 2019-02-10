@@ -1,0 +1,7 @@
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\bin\Debug\Задача2.exe.config
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\bin\Debug\Задача2.exe
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\bin\Debug\Задача2.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\obj\Debug\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\obj\Debug\Задача2.exe
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\obj\Debug\Задача2.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача2\obj\Debug\Задача2.csprojResolveAssemblyReference.cache

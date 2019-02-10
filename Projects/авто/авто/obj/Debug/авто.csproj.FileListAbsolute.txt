@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\авто\авто\bin\Debug\авто.exe.config
+C:\Users\Александр\source\repos\авто\авто\bin\Debug\авто.exe
+C:\Users\Александр\source\repos\авто\авто\bin\Debug\авто.pdb
+C:\Users\Александр\source\repos\авто\авто\obj\Debug\авто.csprojResolveAssemblyReference.cache
+C:\Users\Александр\source\repos\авто\авто\obj\Debug\авто.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\авто\авто\obj\Debug\авто.exe
+C:\Users\Александр\source\repos\авто\авто\obj\Debug\авто.pdb
+F:\Projects\авто\авто\bin\Debug\авто.exe.config
+F:\Projects\авто\авто\obj\Debug\авто.exe
+F:\Projects\авто\авто\obj\Debug\авто.pdb
+F:\Projects\авто\авто\bin\Debug\авто.exe
+F:\Projects\авто\авто\bin\Debug\авто.pdb
+F:\Projects\авто\авто\obj\Debug\авто.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача3(for)\bin\Debug\Задача3(for).exe.config
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача3(for)\bin\Debug\Задача3(for).exe
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача3(for)\bin\Debug\Задача3(for).pdb
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача3(for)\obj\Debug\Задача3(for).csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача3(for)\obj\Debug\Задача3(for).exe
+C:\Users\Александр\Documents\Visual Studio 2017\ConsoleApp3\Задача3(for)\obj\Debug\Задача3(for).pdb
